@@ -27,7 +27,7 @@ Again, once you've downloaded the installer, go ahead and run it to install RStu
 - `tidyverse`: This [package](https://www.tidyverse.org/) is actually a collection of packages that provide essential tools for data cleaning ([dplyr](https://dplyr.tidyverse.org/)) and visualization ([ggplot2](https://ggplot2.tidyverse.org/)).
 - `viridis`: This package provides color palettes that are [more accessible for people with various forms of color blindness](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html).
 - `edbuildr`: This [package](http://viz.edbuild.org/workshops/edbuildr/) was developed by [EdBuild](https://edbuild.org/) to provide more accessible school finance data. It allows you to download data from the National Center for Educaiton Statistics (NCES) and the U.S. Census Bureau that has been [cleaned using EdBuild's methodology for handling such data](http://data.edbuild.org/).
-- `[remotes]`: This package allows you to download packages hosted on GitHub, such as `edbuildr`.
+- `remotes`: This package allows you to download packages hosted on GitHub, such as `edbuildr`.
 
 To install these packages, open RStudio. In the "Console" pane, paste this code and then run it by hitting return:
 
