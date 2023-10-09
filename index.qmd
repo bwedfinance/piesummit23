@@ -1,0 +1,26 @@
+---
+title: "Intro to R and School Finance Equity, PIE Summit 2023"
+format: html
+---
+
+## About this training
+
+When the window opens to pass major education funding reform, advocates need deep policy and technical expertise to influence the legislation. This session will introduce advocates to the technical tools needed to become a trusted authority for modeling potential changes to their state’s school funding formula. Participants will get a crash course in building data analysis and modeling skills, hear from other advocates who’ve put these skills to use to shape policy, and get to know colleagues across the Network who can support future funding reform efforts. 
+
+## Workshop Prep
+
+Participants should install R and R Studio in advance and bring a laptop to the session. Reading [Splitting the Bill](https://bellwether.org/publications/splitting-the-bill/) in advance is recommended for participants totally new to education finance. Facilitators will be on hand to provide prep support prior to the session, and no prior technical skills needed to benefit from this workshop.
+
+## Workshop Logistics
+
+This workshop will be held on Thursday, October 19, 2023 from 10:30 AM to 12:00 PM.
+
+## Instructors
+
+-   [Alex Spurrier](https://bellwether.org/experts/alex-spurrier/)
+
+-   [Krista Kaput](https://bellwether.org/experts/krista-kaput/)
+
+-   [Jennifer O'Neal Schiess](https://bellwether.org/leaders/jennifer-oneal-schiess/)
+
+-   [Bonnie O'Keefe](https://bellwether.org/experts/bonnie-okeefe/)

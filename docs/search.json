@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Intro to R and School Finance Equity, PIE Summit 2023",
+    "section": "",
+    "text": "When the window opens to pass major education funding reform, advocates need deep policy and technical expertise to influence the legislation. This session will introduce advocates to the technical tools needed to become a trusted authority for modeling potential changes to their state’s school funding formula. Participants will get a crash course in building data analysis and modeling skills, hear from other advocates who’ve put these skills to use to shape policy, and get to know colleagues across the Network who can support future funding reform efforts."
+  },
+  {
+    "objectID": "index.html#about-this-training",
+    "href": "index.html#about-this-training",
+    "title": "Intro to R and School Finance Equity, PIE Summit 2023",
+    "section": "",
+    "text": "When the window opens to pass major education funding reform, advocates need deep policy and technical expertise to influence the legislation. This session will introduce advocates to the technical tools needed to become a trusted authority for modeling potential changes to their state’s school funding formula. Participants will get a crash course in building data analysis and modeling skills, hear from other advocates who’ve put these skills to use to shape policy, and get to know colleagues across the Network who can support future funding reform efforts."
+  },
+  {
+    "objectID": "index.html#learning-goals",
+    "href": "index.html#learning-goals",
+    "title": "Intro to R and School Finance Equity, PIE Summit 2023",
+    "section": "Learning goals",
+    "text": "Learning goals\nThis hands-on training covers how to use R, an open-source software package, for education research and modeling, with an emphasis on education finance data. It also covers key policy knowledge needed to advocate for equitable and effective state education finance systems.\nParticipants will:\n\nLearn best practices for importing and cleaning data and processing it into datasets.\nVisualize analysis of education finance data and export the results as static or interactive tables, plots, and maps.\n\nFor participants with limited background in school finance policy, please read Bellwether’s Splitting the Bill prior to the training session."
+  },
+  {
+    "objectID": "index.html#instructors",
+    "href": "index.html#instructors",
+    "title": "Intro to R and School Finance Equity, PIE Summit 2023",
+    "section": "Instructors",
+    "text": "Instructors\n\nAlex Spurrier\nKrista Kaput\nJennifer O’Neal Schiess\nBonnie O’Keefe"
+  },
+  {
+    "objectID": "setup.html",
+    "href": "setup.html",
+    "title": "Setup",
+    "section": "",
+    "text": "The R language is open-source software available at through the Comprehensive R Archive Network, CRAN. Select the version of R that is compatiable with your operating system.\nOnce you’ve downloaded the installer, go ahead and run it to install R on your computer."
+  },
+  {
+    "objectID": "setup.html#step-1-download-and-install-r",
+    "href": "setup.html#step-1-download-and-install-r",
+    "title": "Setup",
+    "section": "",
+    "text": "The R language is open-source software available at through the Comprehensive R Archive Network, CRAN. Select the version of R that is compatiable with your operating system.\nOnce you’ve downloaded the installer, go ahead and run it to install R on your computer."
+  },
+  {
+    "objectID": "setup.html#step-2-install-rstudio",
+    "href": "setup.html#step-2-install-rstudio",
+    "title": "Setup",
+    "section": "Step 2: Install RStudio",
+    "text": "Step 2: Install RStudio\nRStudio is an open-source integrated development environment (IDE) designed to improve your R programming experience. It is available to download through Posit, a public benefit corporation (PBC) that develops open-source software.\nAgain, once you’ve downloaded the installer, go ahead and run it to install RStudio on your computer."
+  },
+  {
+    "objectID": "setup.html#step-3-install-required-packages",
+    "href": "setup.html#step-3-install-required-packages",
+    "title": "Setup",
+    "section": "Step 3: Install required packages",
+    "text": "Step 3: Install required packages\nPackages help make R easier to use by providing useful functions and data. During this training, we will use the following packages:\n\ntidyverse: This package is actually a collection of packages that provide essential tools for data cleaning (dplyr) and visualization (ggplot2).\nviridis: This package provides color palettes that are more accessible for people with various forms of color blindness.\nedbuildr: This package was developed by EdBuild to provide more accessible school finance data. It allows you to download data from the National Center for Educaiton Statistics (NCES) and the U.S. Census Bureau that has been cleaned using EdBuild’s methodology for handling such data.\n[remotes]: This package allows you to download packages hosted on GitHub, such as edbuildr.\n\nTo install these packages, open RStudio. In the “Console” pane, paste this code and then run it by hitting return:\n\ninstall.packages(\"tidyverse\", \"viridis\", \"remotes\")\n\nremotes::install_github(\"edbuild/edbuildr\")"
+  },
+  {
+    "objectID": "index.html#workshop-prep",
+    "href": "index.html#workshop-prep",
+    "title": "Intro to R and School Finance Equity, PIE Summit 2023",
+    "section": "Workshop Prep",
+    "text": "Workshop Prep\nParticipants should install R and R Studio in advance and bring a laptop to the session. Reading Splitting the Bill in advance is recommended for participants totally new to education finance. Facilitators will be on hand to provide prep support prior to the session, and no prior technical skills needed to benefit from this workshop."
+  },
+  {
+    "objectID": "index.html#workshop-logistics",
+    "href": "index.html#workshop-logistics",
+    "title": "Intro to R and School Finance Equity, PIE Summit 2023",
+    "section": "Workshop Logistics",
+    "text": "Workshop Logistics\nThis workshop will be held on Thursday, October 19, 2023 from 10:30 AM to 12:00 PM."
+  }
+]

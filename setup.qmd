@@ -1,0 +1,42 @@
+---
+title: "Setup"
+format: html
+execute:
+  eval: false
+---
+
+
+
+## Step 1: Download and install R
+
+The **R** language is open-source software available at through the **C**omprehensive **R A**rchive **N**etwork,  [**CRAN**](https://cloud.r-project.org). Select the version of R that is compatiable with your operating system.
+
+Once you've downloaded the installer, go ahead and run it to install R on your computer.
+
+
+## Step 2: Install RStudio
+
+**RStudio** is an open-source *integrated development environment* (IDE) designed to improve your R programming experience. It is available to [download through Posit](https://posit.co/download/rstudio-desktop/), a public benefit corporation (PBC) that [develops open-source software](https://posit.co/products/open-source).
+
+Again, once you've downloaded the installer, go ahead and run it to install RStudio on your computer.
+
+## Step 3: Install required packages
+
+**Packages** help make R easier to use by providing useful functions and data. During this training, we will use the following packages:
+
+- `tidyverse`: This [package](https://www.tidyverse.org/) is actually a collection of packages that provide essential tools for data cleaning ([dplyr](https://dplyr.tidyverse.org/)) and visualization ([ggplot2](https://ggplot2.tidyverse.org/)).
+- `viridis`: This package provides color palettes that are [more accessible for people with various forms of color blindness](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html).
+- `edbuildr`: This [package](http://viz.edbuild.org/workshops/edbuildr/) was developed by [EdBuild](https://edbuild.org/) to provide more accessible school finance data. It allows you to download data from the National Center for Educaiton Statistics (NCES) and the U.S. Census Bureau that has been [cleaned using EdBuild's methodology for handling such data](http://data.edbuild.org/).
+- `[remotes]`: This package allows you to download packages hosted on GitHub, such as `edbuildr`.
+
+To install these packages, open RStudio. In the "Console" pane, paste this code and then run it by hitting return:
+
+```{r}
+#| eval: false
+
+install.packages("tidyverse", "viridis", "remotes")
+
+remotes::install_github("edbuild/edbuildr")
+```
+
+
