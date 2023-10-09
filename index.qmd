@@ -9,7 +9,9 @@ When the window opens to pass major education funding reform, advocates need dee
 
 ## Workshop Prep
 
-Participants should install R and R Studio in advance and bring a laptop to the session. Reading [Splitting the Bill](https://bellwether.org/publications/splitting-the-bill/) in advance is recommended for participants totally new to education finance. Facilitators will be on hand to provide prep support prior to the session, and no prior technical skills needed to benefit from this workshop.
+Participants should install R and R Studio in advance and bring a laptop to the session. Detailed [instructions for downloading required software are available here](https://bwedfinance.github.io/piesummit23/setup.html).
+
+Reading [Splitting the Bill](https://bellwether.org/publications/splitting-the-bill/) in advance is recommended for participants totally new to education finance. Facilitators will be on hand to provide prep support prior to the session, and no prior technical skills needed to benefit from this workshop.
 
 ## Workshop Logistics
 
