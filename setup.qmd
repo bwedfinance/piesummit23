@@ -34,7 +34,7 @@ To install these packages, open RStudio. In the "Console" pane, paste this code 
 ```{r}
 #| eval: false
 
-install.packages("tidyverse", "viridis", "remotes")
+install.packages(c("tidyverse", "viridis", "remotes"))
 
 remotes::install_github("edbuild/edbuildr")
 ```
