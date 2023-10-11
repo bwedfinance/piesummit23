@@ -29,7 +29,7 @@ Again, once you've downloaded the installer, go ahead and run it to install RStu
 - `edbuildr`: This [package](http://viz.edbuild.org/workshops/edbuildr/) was developed by [EdBuild](https://edbuild.org/) to provide more accessible school finance data. It allows you to download data from the National Center for Educaiton Statistics (NCES) and the U.S. Census Bureau that has been [cleaned using EdBuild's methodology for handling such data](http://data.edbuild.org/).
 - `remotes`: This package allows you to download packages hosted on GitHub, such as `edbuildr`.
 
-To install these packages, open RStudio. In the "Console" pane, paste this code and then run it by hitting return:
+To install these packages, open RStudio and copy the code below. In the "Console" pane, paste the code and run it by hitting return:
 
 ```{r}
 #| eval: false
