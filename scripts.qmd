@@ -1,0 +1,18 @@
+---
+title: "Scripts"
+format: html
+execute:
+  eval: false
+---
+
+
+
+## Workshop example scripts
+
+- [`intro_script.R`](https://gist.github.com/alspur/b6196e7d16d5d6338f5565194fd5fdb1): Provides a step-by-step example of how to build a quality plot of state school finance data.
+- [`clean_script.R`](https://gist.github.com/alspur/9575f69b02213bd6feb4590947a3add8): Condensed version of `intro_script.R` *without* the iterative process.
+
+## Bonus scripts
+
+- [`interactive_script.R`](https://gist.github.com/alspur/97c6d508de158921d359974d122b6907): Uses the `plotly` package to create an interactive version of the workshop plot. Be sure to install the `plotly` package before running this script!
+- [`national_script.R`](https://gist.github.com/alspur/3482d7cdab36471e561eb33148a81957): Replicates the workshop plot across each state (plus Washington, D.C.), producing a single plot with 51 sub-plots.

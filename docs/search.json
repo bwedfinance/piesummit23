@@ -68,5 +68,26 @@
     "title": "Intro to R and School Finance Equity, PIE Summit 2023",
     "section": "Workshop Logistics",
     "text": "Workshop Logistics\nThis workshop will be held on Thursday, October 19, 2023 from 10:30 AM to 12:00 PM."
+  },
+  {
+    "objectID": "scripts.html",
+    "href": "scripts.html",
+    "title": "Scripts",
+    "section": "",
+    "text": "intro_script.R: Provides a step-by-step example of how to build a quality plot of state school finance data.\nclean_script.R: Condensed version of intro_script.R without the iterative process."
+  },
+  {
+    "objectID": "scripts.html#workshop-example-scripts",
+    "href": "scripts.html#workshop-example-scripts",
+    "title": "Scripts",
+    "section": "",
+    "text": "intro_script.R: Provides a step-by-step example of how to build a quality plot of state school finance data.\nclean_script.R: Condensed version of intro_script.R without the iterative process."
+  },
+  {
+    "objectID": "scripts.html#bonus-scripts",
+    "href": "scripts.html#bonus-scripts",
+    "title": "Scripts",
+    "section": "Bonus scripts",
+    "text": "Bonus scripts\n\ninteractive_script.R: Uses the plotly package to create an interactive version of the workshop plot. Be sure to install the plotly package before running this script!\nnational_script.R: Replicates the workshop plot across each state (plus Washington, D.C.), producing a single plot with 51 sub-plots."
   }
 ]
