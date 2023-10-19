@@ -5,8 +5,6 @@ execute:
   eval: false
 ---
 
-
-
 ## Step 1: Download and install R
 
 The **R** language is open-source software available at through the **C**omprehensive **R A**rchive **N**etwork,  [**CRAN**](https://cloud.r-project.org). Select the version of R that is compatiable with your operating system.
